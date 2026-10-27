@@ -1,4 +1,97 @@
 {
-  "about": "TODO(dataset): written by inventory-app's scripts/minisites/legacy-minisite.mjs, with every picture of the frame taken from the legacy exhibition.",
-  "files": {}
+  "about": "The frame this website takes from legacy Discover Islamic Art's virtual exhibition Figurative Art (exhibitions/ISL/figural/), each file as legacy serves it, byte for byte; the curators' logos come from the exhibitions' shared sponsor_logo folder. tests/assets.test.js checks every file against its hash.",
+  "files": {
+    "theme/assets/legacy/arrow_inner_black.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/arrow_inner_black.gif",
+      "sha256": "a969e5e62fe3c75dcb4e05ef1ca4e38f67a528916db802c229511b44567bd87a"
+    },
+    "theme/assets/legacy/bg_fading_left.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/bg_fading_left.gif",
+      "sha256": "55d2442c79c325b47bc09d82a5c3d6c9e717c0275f4704c89b8a373898d4663a"
+    },
+    "theme/assets/legacy/bg_fading_right.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/bg_fading_right.gif",
+      "sha256": "5e211973e6b71192f3da70acdc05318c1745d3a201a6c0382a4d0df71bc25261"
+    },
+    "theme/assets/legacy/DE-20.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/DE-20.gif",
+      "sha256": "62e096b49c5e3fab74f424aa551741925b179c1988446bb510e7eb1af541831c"
+    },
+    "theme/assets/legacy/exhibition_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/exhibition_bg_ar.jpg",
+      "sha256": "c6d03fb6cc499bd3528e319a642aa7643b47988f10a5704f37af71149a65ebd8"
+    },
+    "theme/assets/legacy/exhibition_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/exhibition_bg.jpg",
+      "sha256": "f3224816b69da77eee8f161996c53489fe0c88f85258d78c4f977e71e22a5e88"
+    },
+    "theme/assets/legacy/home_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/home_bg_ar.jpg",
+      "sha256": "85eec59303590c0714fbeb804ef289bcd90a1404d182e28f4d7b4075f10c06f2"
+    },
+    "theme/assets/legacy/home_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/home_bg.jpg",
+      "sha256": "0dc4b00885318f5b2ed2643acc9967566ce22db8dd1922ffc6121db3eb9e23dc"
+    },
+    "theme/assets/legacy/ico_item_selected.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/ico_item_selected.gif",
+      "sha256": "8e4e35eebb1dda3a1495a2dc7a9d1a4611d9118f3f683a269823da701989feb5"
+    },
+    "theme/assets/legacy/ico_item.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/ico_item.gif",
+      "sha256": "0b630172707e2ed687751dd70acb096ef905a3ee56421c650c227520e10030c8"
+    },
+    "theme/assets/legacy/intro_bg_ar.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/intro_bg_ar.jpg",
+      "sha256": "585bd75351875157a71cfd8e65eb234b7ff370d9b650a6f23a4cb5248939b55a"
+    },
+    "theme/assets/legacy/intro_bg.jpg": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/intro_bg.jpg",
+      "sha256": "c5222108facadd083cbda5604b741399612dfda981fd635f00e6c03c87bc44de"
+    },
+    "theme/assets/legacy/JO-20.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/sponsor_logo/JO-20.gif",
+      "sha256": "a531aff3e69253795b5934d2dd0eb8b1a74fea6a1c47912ab4b352083f24b860"
+    },
+    "theme/assets/legacy/logo_ar.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_ar.gif",
+      "sha256": "f56c2bc5ca60f627e32a1cd101d4e767604cc46b0b5ce13ffdc9eb5fadcda111"
+    },
+    "theme/assets/legacy/logo_de.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_de.gif",
+      "sha256": "3def0c65b576051f325afcab9c9e0f74025d9554ebaf3746cd559c7b975bec4b"
+    },
+    "theme/assets/legacy/logo_en.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_en.gif",
+      "sha256": "d45581e4ff74f67c22f18db7305bea0a52bcc5c51a601129f0728e882281f256"
+    },
+    "theme/assets/legacy/logo_es.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_es.gif",
+      "sha256": "37b29dfa2c80992624a664fd3529cc9a7bc3aa0880e46fb4eae23828cb29a494"
+    },
+    "theme/assets/legacy/logo_fr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_fr.gif",
+      "sha256": "b39545e0324709688a77124c6679cfad9dde18a06de573cb2160b50e552c7e3d"
+    },
+    "theme/assets/legacy/logo_it.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_it.gif",
+      "sha256": "d602e91cffcda2346b9988ebe5e81c3947d861066a02498f2494538952933d7e"
+    },
+    "theme/assets/legacy/logo_pt.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_pt.gif",
+      "sha256": "e89a70d57e8ba943fe7225e26037c64d233b37db23f2eb48b27df31262b93e99"
+    },
+    "theme/assets/legacy/logo_se.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_se.gif",
+      "sha256": "b7f99b6269e5682d8554c42f78410fc95c146a60c79d3ce55d55426c880b717e"
+    },
+    "theme/assets/legacy/logo_tr.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/logo_tr.gif",
+      "sha256": "b6f0199c5a0d6667e9e44f7d55d795f08965e274a49901f4666baa71f91dadca"
+    },
+    "theme/assets/legacy/print_dark.gif": {
+      "source": "https://islamicart.museumwnf.org/exhibitions/ISL/figural/images/print_dark.gif",
+      "sha256": "49894d52c06b6f8e1c29b0b3f82245bcd3f439108e4cd3a7c4f16360ed896742"
+    }
+  }
 }
